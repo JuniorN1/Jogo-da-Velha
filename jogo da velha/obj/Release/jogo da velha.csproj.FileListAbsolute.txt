@@ -1,0 +1,16 @@
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\bin\Release\jogo da velha.exe.config
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\bin\Release\jogo da velha.exe
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\bin\Release\jogo da velha.pdb
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\bin\Release\Interop.WMPLib.dll
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\bin\Release\AxInterop.WMPLib.dll
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.csprojAssemblyReference.cache
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\Interop.WMPLib.dll
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\AxInterop.WMPLib.dll
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.csproj.ResolveComReference.cache
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo_da_velha.velha.resources
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo_da_velha.Inicio.resources
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo_da_velha.Properties.Resources.resources
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.csproj.GenerateResource.cache
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.exe
+C:\Users\GILMAQ\Downloads\jogo da velha\jogo da velha\obj\Release\jogo da velha.pdb
